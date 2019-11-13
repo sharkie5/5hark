@@ -32,4 +32,5 @@ Credits: Thank You :)
 2. [https://discord.js.org/#/] Helped me with the code.
 3. Discord Bot Community. :D
 4. [https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA] Helpful videos on bot.
+5. Wingy for helping make the code better.
 
